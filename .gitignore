@@ -1,0 +1,29 @@
+plaintext
+Copy code
+
+.NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+StyleCop
+StyleCopReport.xml
+
+Files built by Visual Studio
+*.i
+*_p.c
+*h.h
+*.ilk
+*meta
+*.obj
+*.iobj
+*-pch
+*.pdb
+*.ipdb
+*-pgc
+*.pgd
+*.rsp
+*.sbr
+
+macOS specific
+.DS_Store
